@@ -12,7 +12,11 @@ Welcome to my GitHub profile! I'm Arshak Shan, a curious developer, an inventive
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arshakshan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+<details>
+<summary>More Stats</summary>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arshakshan&theme=nightowl&hide_border=false)<br/>
+</details>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshakshan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
