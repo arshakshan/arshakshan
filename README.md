@@ -1,6 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/> Hi I'm Arshak!
 Welcome to my GitHub profile! I'm Arshak Shan, a curious developer, an inventive software engineer, and an all-around tech enthusiast. I'm always diving into new projects, pushing boundaries, and finding fun in the unexpected. Recently graduated with a master's in Software Engineering from Arizona State University. Let’s code something awesome together!
 
+# Read About My Projects
+This document summarizes all my projects with explanations of what it does and links to the respective repositories. [Click Here](Code_Samples_and_Explanations.pdf) 
+
 # 💫 About Me:
 🔭 I’m currently working on Large Language Models, Web Scraping and Full Stack Technologies<br>👯 I’m looking to collaborate on TBD<br>🤝 I’m looking for help with Full Time Roles in Software Engineering, Machine Learning and Full Stack Web Development<br>🌱 I’m currently learning Large Language Models, Web Scraping, Full Stack Technologies and Go<br>💬 Ask me about Machine Learning, Python, C++, Javascript, Web Dev, Databases<br>⚡ Fun fact: I am a huge petrolhead and love anything to do with motorsports and tech. I will send you memes!
 
